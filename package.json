@@ -1,0 +1,23 @@
+{
+  "name": "server-side-events",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A demo on server side events.\r https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nagaraj-real/server-side-events.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nagaraj-real/server-side-events/issues"
+  },
+  "homepage": "https://github.com/nagaraj-real/server-side-events#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
